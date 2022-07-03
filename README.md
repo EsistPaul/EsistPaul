@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EsistPaul
+- 👀 I’m interested in Games, Programming and more
+- 🌱 I’m currently learning Godot
